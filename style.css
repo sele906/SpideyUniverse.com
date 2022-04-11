@@ -44,7 +44,7 @@ nav img {
   content: '';
   width: 0%;
   height: 2px;
-  background: #2f36a6;
+  background: #4764c4;
   display: block;
   margin: auto;
   transition: 0.5s;
@@ -54,7 +54,7 @@ nav img {
 }
 
 .nav-links ul li a:hover {
-  color: #5c62c6;
+  color: #4764c4;
 }
 
 .text-box {
